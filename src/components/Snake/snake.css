@@ -1,0 +1,7 @@
+.snake{
+    height: 10px;
+    width: 10px;
+    background-color: black;
+    border: 1px solid #b7d4a8;
+    position: absolute;
+}
