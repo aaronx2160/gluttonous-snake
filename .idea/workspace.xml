@@ -42,6 +42,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
@@ -74,7 +75,7 @@
       <workItem from="1623507222224" duration="378000" />
       <workItem from="1623507651160" duration="48000" />
       <workItem from="1623507741925" duration="44000" />
-      <workItem from="1623508878806" duration="62135000" />
+      <workItem from="1623508878806" duration="62639000" />
     </task>
     <servers />
   </component>
