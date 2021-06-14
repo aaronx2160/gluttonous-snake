@@ -51,7 +51,6 @@ export function setLevel() :SetLevel{
 }
 
 export function changeDirection(keyCode:string) :ChangeDirection {
-    console.log(keyCode)
     let payload ={x:0,y:0}
     switch (keyCode) {
         case 'ArrowDown':

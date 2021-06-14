@@ -1,6 +1,4 @@
 export interface StoreState {
-    languageName: string;
-    enthusiasmLevel: number;
     foodPos:Position;
     snakeHeadPos:Position;
     score:number;
