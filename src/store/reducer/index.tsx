@@ -13,7 +13,7 @@ export const enthusiasm: Reducer = (
         case SET_FOOD_POSITION:
             return {...state,foodPos:action.payload}
         case SET_SCORE:
-            return {...state,score:state.score+1}
+            return {...state,score:state.score+10}
         case SET_LEVEL:
             return {...state,level:state.level+1}
         case CHANGE_DIRECTION:

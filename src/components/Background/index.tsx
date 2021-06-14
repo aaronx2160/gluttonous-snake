@@ -4,19 +4,19 @@ import Snake from "../Snake";
 import Food from "../Food";
 import Panel from "../Panle";
 
-class Background extends React.Component{
 
-    render() {
+const Background =()=>{
+
         return(
             <div className='container'>
+                <p>Press Arrow key to start</p>
                 <div className="stage">
-                    <Snake></Snake>
-                    <Food></Food>
+                    <Snake/>
+                    <Food/>
                 </div>
-               <Panel></Panel>
+               <Panel/>
             </div>
         )
-    }
 }
 
 
